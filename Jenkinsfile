@@ -2,7 +2,7 @@ pipeline {
     agent any 
 
     tools {
-        maven 'install_automatically'
+        maven 'installation_automatique'
     }
 
     stages {
